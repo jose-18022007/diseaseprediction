@@ -35,5 +35,5 @@ st.success(f"**Probability you have the disease given a positive test: {posterio
 
 # Explanation
 st.subheader("🧠 How It Works")
-st.markdown(f"""
+st.markdown(f""")
 Bayes' Theorem updates our belief after seeing new evidence (a positive test):
